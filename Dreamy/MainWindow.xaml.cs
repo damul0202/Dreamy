@@ -24,7 +24,7 @@ namespace Dreamy
         {
             InitializeComponent();
 
-            int i;
+            TextBox tb = null;
         }
     }
 }
